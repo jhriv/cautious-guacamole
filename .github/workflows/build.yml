@@ -4,7 +4,6 @@ name: build proof-of-concept
 on:
   push:
     branches: 
-      - **
       - action
 
 jobs:
