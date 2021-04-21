@@ -3,6 +3,7 @@
 name: build proof-of-concept
 on:
   push:
+    branches: *
 
 jobs:
   docker:
